@@ -6,10 +6,10 @@
       "type":"CODE_SMELL",
       "primaryLocation": {
         "message": "fully-fleshed issue",
-        "filePath": "sources/A.java",
+        "filePath": "src/main/java/com/test/App.java",
         "textRange": {
-          "startLine": 30,
-          "endLine": 30,
+          "startLine": 3,
+          "endLine": 3,
           "startColumn": 9,
           "endColumn": 14
         }
@@ -18,10 +18,10 @@
       "secondaryLocations": [
         {
           "message": "cross-file 2ndary location",
-          "filePath": "sources/B.java",
+          "filePath": "src/main/java/com/test/App.java",
           "textRange": {
-            "startLine": 10,
-            "endLine": 10,
+            "startLine": 1,
+            "endLine": 1,
             "startColumn": 6,
             "endColumn": 38
           }
@@ -35,7 +35,7 @@
       "type": "BUG",
       "primaryLocation": {
         "message": "minimal issue raised at file level",
-        "filePath": "sources/Measure.java"
+        "filePath": "src/main/java/com/test/App.java"
       }
     }
 ]}
