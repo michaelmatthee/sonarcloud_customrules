@@ -1,11 +1,11 @@
 { "issues": [
     {
-      "engineId": "test",
-      "ruleId": "rule1",
+      "engineId": "API_security",
+      "ruleId": "idor1",
       "severity":"BLOCKER",
-      "type":"CODE_SMELL",
+      "type":"VULNERABILITY",
       "primaryLocation": {
-        "message": "fully-fleshed issue",
+        "message": "Indirect object reference",
         "filePath": "src/main/java/com/test/App.java",
         "textRange": {
           "startLine": 3,
