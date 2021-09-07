@@ -1,0 +1,7 @@
+#surefire_0
+#Mon Sep 06 20:49:12 EDT 2021
+basedir=/home/kali/Documents/Tools/sonarcloud_customrules
+sonar.projectKey=test-custom-rules
+user.dir=/home/kali/Documents/Tools/sonarcloud_customrules
+sonar.externalIssuesReportPaths=security_findings.json
+localRepository=/home/kali/.m2/repository
