@@ -4,7 +4,7 @@ package com.test;
  * Hello world!
  *
  */
-public class App 
+public class CityManagementUIController 
 {
     public static void main( String[] args )
     {
