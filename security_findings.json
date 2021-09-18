@@ -37,13 +37,12 @@
         "message": "Indirect object reference",
         "filePath": "src/main/java/com/test/App.java",
         "textRange": {
-          "startLine": 1,
-          "endLine": 1,
+          "startLine": 14,
+          "endLine": 15,
           "startColumn": 2,
           "endColumn": 3
         }
-      },
-      "effortMinutes": 90,
+      }
     },
     {
       "engineId": "test",
