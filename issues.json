@@ -6,7 +6,7 @@
       "type":"VULNERABILITY",
       "primaryLocation": {
         "message": "Indirect object reference",
-        "filePath": "com/test/CityManagementUIController.java",
+        "filePath": "src/main/java/com/test/CityManagementUIController.java",
         "textRange": {
           "startLine": 3,
           "endLine": 3,
