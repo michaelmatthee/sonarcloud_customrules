@@ -1,0 +1,1 @@
+{ "issues":[{"ruleId":"SECSIDOR","type":"VULNERABILITY","severity":"MAJOR","engineId":"custom","primaryLocation":{"textRange":{"startColumn":0,"endLine":66,"endColumn":0,"startLine":64},"message":"Indirect object reference","filePath":"com.test.CityManagementUIController"}}]}
