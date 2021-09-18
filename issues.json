@@ -13,7 +13,7 @@
           "startLine": 64
         },
         "message": "Indirect object reference",
-        "filePath": "com/test/CityManagementUIController"
+        "filePath": "com/test/CityManagementUIController.java"
       }
     }
   ]
